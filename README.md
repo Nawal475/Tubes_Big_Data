@@ -22,7 +22,8 @@ Dataset yang digunakan adalah **Olist Brazilian E-Commerce Dataset** yang berisi
 - Geolocation
 
 Sumber Dataset:
-https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+1. https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+2. https://www.frankfurter.app/
 
 ## Struktur Repository
 
